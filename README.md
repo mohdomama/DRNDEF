@@ -1,5 +1,5 @@
-# aslam-v2
-Perception Aware Navigation | A follow-up for LADFN
+# DRNDEF
+Drift Reduced Navigtion with Deep Explainable Features
 
 
 ## Developer Checklist

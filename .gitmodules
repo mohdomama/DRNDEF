@@ -1,0 +1,3 @@
+[submodule "carla_scripts"]
+	path = carla_scripts
+	url = https://github.com/mohdomama/carla_scripts
